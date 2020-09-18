@@ -2,6 +2,28 @@
 <html lang="en">
   <head>
     <title>Ulidwala GDS</title>
+<style>
+.pad10{
+        padding: 10px;
+      }
+      .bg{
+        background-image: url("https://youtu.be/79kpoGF8KWU");
+        background-color: gold;
+        height: 200px;
+        padding: 20px;
+        margin: 10px;
+        border: 1px solid gold;
+      }
+      .bg.border-box{
+        background-clip: border-box
+      }
+      .bg.padding-box{
+        background-clip: padding-box
+      }
+      .bg.content-box{
+        background-clip: content-box
+      }
+</style>
   </head>
   <body>
     <p>
